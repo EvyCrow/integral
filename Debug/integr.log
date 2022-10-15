@@ -1,0 +1,4 @@
+﻿  integr.c
+C:\Users\paart\source\repos\integr\integr.c(30,1): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\paart\source\repos\integr\integr.c(94,38): warning C4244: функция: преобразование "double" в "int", возможна потеря данных
+  integr.vcxproj -> C:\Users\paart\source\repos\integr\Debug\integr.exe
